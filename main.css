@@ -1,0 +1,36 @@
+body {
+  background-color: #329C39;
+  background-image: url(http://conserveanimals.com/wp-content/uploads/2015/03/yUo22VSe3JCkL4nUeQbti1Zy.jpeg);
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #FCF9F5;
+}
+
+#heading {
+  font-size: 4em;
+  color: #3BA3D0;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+#me{
+  width: 30%;
+  float: right;
+
+}
+
+.small{
+  font-size: 13px;
+  font-style: italic;
+  float: left;
+}
+
+.container {
+  margin: auto;
+  padding: 50px;
+  max-width: 800px;
+  background-color: black;
+}
+
+section{
+  clear: both;
+}
